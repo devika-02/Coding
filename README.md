@@ -1,2 +1,3 @@
-# Machine-Learning
-Created a few ML models and Neural Network using popular python libraries and visualisation tools.
+# CODING
+
+A few coding problems I have solved on codeforces,leetcode etc
