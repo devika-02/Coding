@@ -1,9 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
-void vecsum(){
-    
-   
-}
+//YOUNG PHYSICIST CODE FORCES PROOBLEM RATING:1000
+//CHECK EQUILIBRIUM OF n FORCES
 int main()
 {
    int n;
